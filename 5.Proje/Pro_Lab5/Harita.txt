@@ -1,0 +1,17 @@
+Karakter:Master Yoda, 5,6
+Karakter:Stormtrooper,Kapi:C
+Karakter:Darth Vader,Kapi:C
+Karakter:Kylo Ren,Kapi:B
+Karakter:Kylo Ren,Kapi:D
+Karakter:Stormtrooper,Kapi:E
+0	0	0	0	1	0	0	0	0	0	0	0	1	0
+0	1	1	1	1	0	1	1	1	1	1	1	1	0
+0	1	0	1	1	1	1	0	1	0	0	0	1	0
+0	1	0	1	1	0	1	0	1	1	0	1	1	0
+0	1	0	1	0	0	1	0	1	1	0	1	1	0
+1	1	0	1	1	1	1	0	1	0	0	0	1	1
+0	1	0	0	1	0	1	0	1	0	1	1	1	0
+0	1	0	1	1	1	1	1	1	0	0	0	1	0
+0	1	0	1	0	0	0	0	1	0	0	1	1	0
+0	1	1	1	1	1	1	1	1	1	1	1	1	1
+0	0	0	0	1	0	0	0	0	0	0	0	0	0

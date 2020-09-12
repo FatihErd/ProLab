@@ -1,0 +1,25 @@
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe.config
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\bin\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\obj\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\obj\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\prolab4\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe.config
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\bin\Debug\rezervasyon.exe
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\bin\Debug\rezervasyon.pdb
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csprojAssemblyReference.cache
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\obj\Debug\rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\obj\Debug\rezervasyon.exe
+C:\Users\ebruv\Desktop\İşletim (vizeden sonra)\rezervasyon\rezervasyon\obj\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\bin\Debug\rezervasyon.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\bin\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\bin\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\obj\Debug\rezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\obj\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\170201130-180201005\rezervasyon\obj\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\bin\Debug\rezervasyon.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\bin\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\bin\Debug\rezervasyon.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\obj\Debug\rezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\obj\Debug\rezervasyon.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (4)\Proje4(170201130-180201005)\rezervasyon\obj\Debug\rezervasyon.pdb

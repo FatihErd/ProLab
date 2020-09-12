@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541166310 source:c:\users\ebruv\desktop\devre\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

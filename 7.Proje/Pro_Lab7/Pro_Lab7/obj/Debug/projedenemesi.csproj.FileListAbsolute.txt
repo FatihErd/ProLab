@@ -1,0 +1,74 @@
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csprojAssemblyReference.cache
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Properties.Resources.resources
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.GenerateResource.cache
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.CoreCompileInputs.cache
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe.config
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.pdb
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.exe
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.pdb
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.HammaddeEkle.resources
+C:\Users\ebruv\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusterilerEkle.resources
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe.config
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\bin\Debug\projedenemesi.pdb
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csprojAssemblyReference.cache
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.HammaddeEkle.resources
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusterilerEkle.resources
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Properties.Resources.resources
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.GenerateResource.cache
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.exe
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.pdb
+C:\Users\TOHIBA\source\repos\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KimyasalUrunEkle.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe.config
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\bin\Debug\projedenemesi.pdb
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csprojAssemblyReference.cache
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.HammaddeEkle.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KimyasalUrunEkle.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusterilerEkle.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Properties.Resources.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.GenerateResource.cache
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.CoreCompileInputs.cache
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.exe
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.pdb
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusteriSiparisVer.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Sehirler.resources
+C:\Users\ebruv\Desktop\fatih\projedenemesi\projedenemesi\obj\Debug\projedenemesi.TedarikciEkle.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\bin\Debug\projedenemesi.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csprojAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.HammaddeEkle.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KimyasalUrunEkle.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusterilerEkle.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusteriSiparisVer.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Properties.Resources.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Sehirler.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.TedarikciEkle.resources
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.GenerateResource.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (7)\projedenemesi\projedenemesi\obj\Debug\projedenemesi.pdb
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe.config
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\bin\Debug\projedenemesi.exe
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\bin\Debug\projedenemesi.pdb
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csprojAssemblyReference.cache
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.HammaddeEkle.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KimyasalUrunEkle.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusterilerEkle.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.MusteriSiparisVer.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Properties.Resources.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.Sehirler.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.TedarikciEkle.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.GenerateResource.cache
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.csproj.CoreCompileInputs.cache
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.exe
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.pdb
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.TedarikciHammaddeEkle.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.UreticiHammadde.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.UreticiHammadde_TedarikciFirmayaGore_.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KimyasalUret.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.SiparisKarsila.resources
+C:\Users\ebruv\Desktop\projedenemesi\projedenemesi\obj\Debug\projedenemesi.KarZararTablosu.resources
